@@ -5,5 +5,10 @@
   "main": "index.json",
   "repository": "git@github.com:astuteo-llc/prettier-config.git",
   "author": "Astuteo <robot@astuteo.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "1.19.1",
+    "prettier-plugin-twig-melody": "^0.4.1",
+    "stylelint-prettier": "^1.1.2"
+  }
 }
