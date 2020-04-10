@@ -7,9 +7,9 @@
   "author": "Astuteo <robot@astuteo.com>",
   "license": "MIT",
   "dependencies": {
-    "prettier": "1.19.1",
-    "prettier-plugin-twig-melody": "^0.4.1",
-    "@prettier/plugin-php": "^0.13.0",
+    "prettier": "^2.0.4",
+    "prettier-plugin-twig-melody": "^0.4.2",
+    "@prettier/plugin-php": "^0.14.0",
     "stylelint-prettier": "^1.1.2"
   }
 }
