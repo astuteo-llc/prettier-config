@@ -1,15 +1,16 @@
 {
   "$schema": "http://json.schemastore.org/prettierrc",
   "printWidth": 80,
-  "noSemi": true,
+  "semi": false,
   "tabWidth": 4,
   "trailingComma": "all",
   "endOfLine": "lf",
-  "plugins": ["./node_modules/prettier-plugin-twig-melody"],
-  "twigMultiTags": [
-    "nav,endnav",
-    "switch,case,default,endswitch",
-    "ifchildren,endifchildren",
-    "cache,endcache"
+  "overrides": [
+      {
+          "files": ["*.js"],
+          "options": {
+              "tabWidth": 2
+          }
+      }
   ]
 }
