@@ -1,6 +1,6 @@
 {
   "name": "@astuteo/prettier-config",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Astuteo Prettier config",
   "main": "index.json",
   "repository": "git@github.com:astuteo-llc/prettier-config.git",
