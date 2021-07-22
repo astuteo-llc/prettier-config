@@ -4,7 +4,7 @@
 
 **Install**:
 
-Note: If the project has our @astuteo/build-config 5.2+ installed, you do not need to install this package seperately. That is installed and kept up-to-date in that package.
+_Note: If the project has our @astuteo/build-config 5.2+ installed, you do not need to install this package seperately. That is installed and kept up-to-date in that package._
 
 ```bash
 $ yarn add --dev @astuteo/prettier-config
