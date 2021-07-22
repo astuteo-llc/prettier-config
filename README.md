@@ -16,3 +16,10 @@ $ yarn add --dev @astuteo/prettier-config
   "prettier": "@astuteo/prettier-config"
 }
 ```
+
+
+
+```
+./node_modules/@astuteo/prettier-config/index.json
+./node_modules/prettier
+```
