@@ -7,9 +7,10 @@
   "endOfLine": "lf",
   "overrides": [
       {
-          "files": ["*.js"],
+          "files": ["*.js","*.ts"],
           "options": {
-              "tabWidth": 2
+            "singleQuote": true,
+            "tabWidth": 2
           }
       }
   ]
