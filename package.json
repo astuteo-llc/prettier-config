@@ -1,15 +1,14 @@
 {
   "name": "@astuteo/prettier-config",
-  "version": "1.4.3",
+  "version": "2.0.0",
   "description": "Astuteo Prettier config",
   "main": "index.json",
   "repository": "git@github.com:astuteo-llc/prettier-config.git",
   "author": "Astuteo <robot@astuteo.com>",
   "license": "MIT",
   "dependencies": {
-    "prettier": "^2.3.2",
-    "prettier-plugin-twig-melody": "^0.4.6",
-    "@prettier/plugin-php": "^0.17.2",
-    "stylelint-prettier": "^1.2.0"
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.4.1",
+    "stylelint-prettier": "^4.0.2"
   }
 }
